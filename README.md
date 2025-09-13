@@ -24,7 +24,7 @@ Fonts and vector images for markings specified in ICAO Annex 14.
 
 ## Other:
 
-### Planned Fonts:
+### Planned Markings:
 * Taxiing Guidance Signs
 
 ### Main Sources:
