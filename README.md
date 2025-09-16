@@ -5,6 +5,8 @@ Fonts and vector images for markings specified in ICAO Annex 14.
 * Vector images are available as .svg in the "Vector Image Files" folder.
 * Font previews can be found in the "Previews" folder.
 
+> For FSX/P3D - Airport Design Editor (ADE) textures made with these fonts, see the following repository: [github.com/ibosoftnet/ground-polys-for-ade](https://github.com/ibosoftnet/ground-polys-for-ade)
+
 ## Available Markings:
 
 ### _Runway Designation Markings_:
